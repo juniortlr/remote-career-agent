@@ -1,0 +1,18 @@
+{
+  "source": "manual",
+  "external_id": "demo-data-engineer",
+  "title": "Data Engineer",
+  "company": "Fictional Example Co",
+  "url": "https://example.com/jobs/demo-data-engineer",
+  "description": "Build Python and SQL data pipelines and improve data quality.",
+  "location": "Remote Brazil",
+  "remote": true,
+  "brazil_eligible": true,
+  "monthly_usd": 5000,
+  "paid_in_usd": true,
+  "salary_evidence": "Fictional fixture: USD 5,000 per month, paid in USD.",
+  "eligibility_evidence": "Fictional fixture: remote contractors in Brazil accepted.",
+  "questions": [
+    "Describe your experience building Python data pipelines."
+  ]
+}

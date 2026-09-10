@@ -1,0 +1,25 @@
+{
+  "name": "Example Candidate",
+  "evidence": [
+    {
+      "id": "e1",
+      "text": "Built Python and SQL data pipelines with automated data quality checks.",
+      "tags": [
+        "data engineering",
+        "python",
+        "sql"
+      ],
+      "verified": true
+    },
+    {
+      "id": "e2",
+      "text": "Trained and evaluated classification models for a research project.",
+      "tags": [
+        "machine learning",
+        "data science"
+      ],
+      "verified": true
+    }
+  ],
+  "approved_answers": {}
+}
